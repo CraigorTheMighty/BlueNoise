@@ -1,0 +1,1 @@
+int Image_SaveBlueNoise(bluenoise_t *bn, int num_channels, char *filename, int is_ktx);
