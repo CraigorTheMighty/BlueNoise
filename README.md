@@ -3,7 +3,7 @@ BlueNoise
 
 Command-line program with regular C and OpenCL high-performance tileable blue noise texture generators.
 
-Output can be saved to most image formats (pretty much anything DevIL directly supports), and full 32-bit precision floating point .ktx files in GL_RGB32F or GLRGBA32F format, depending on the number of channels generated.
+Output can be saved to most image formats (pretty much anything DevIL directly supports), and full 32-bit precision floating point .ktx files in GL_RGB32F or GL_RGBA32F format, depending on the number of channels generated.
 
 Currently supports square output sizes in powers-of-two up to 8192 x 8192.
 
