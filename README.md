@@ -57,7 +57,7 @@ Noise generated up to the maximum size supported by this application generally d
 Dependencies
 ============
 
-Uses the DevIL library (https://openil.sourceforge.net/download.php) to load source images. DevIL is licensed under LGPL 2.1. The relevant headers, .libs, .dlls are included in this repository.
+Uses the DevIL library (https://openil.sourceforge.net/download.php) to save destination images. DevIL is licensed under LGPL 2.1. The relevant headers, .libs, .dlls are included in this repository.
 
 Uses libKTX (https://github.com/KhronosGroup/KTX-Software/releases/) to save .ktx outputs. libKTX is licensed under the Apache 2.0 license. The relevant headers, .libs, .dlls are included in this repository.
 
